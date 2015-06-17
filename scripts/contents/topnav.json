@@ -4,28 +4,24 @@
 		"link": "#/"
 	},
 	{
-		"name": "Products",
+		"name": "Tujuan",
 		"link": "javascript:",
-		"target": "#products"
+		"target": "#purpose"
 	},
 	{
-		"name": "Services",
+		"name": "DNA",
 		"link": "javascript:",
-		"target": "#service"
+		"target": "#dna"
 	},
 	{
-		"name": "Training",
+		"name": "Ecosystem Partnership",
 		"link": "javascript:",
-		"target": "#training"
+		"target": "#ecosystem"
 	},
 	{
-		"name": "Online Services",
+		"name": "Pendaftaran",
 		"link": "javascript:",
-		"target": "#online-services"
-	},
-	{
-		"name": "Masuk/Daftar",
-		"link": "#/login"
+		"target": "#registration"
 	},
 	{
 		"name": "Hubungi Kami",
