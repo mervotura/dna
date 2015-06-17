@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Beranda",
+		"link": "#/"
+	},
+	{
+		"name": "Tujuan",
+		"link": "javascript:",
+		"target": "#purpose"
+	},
+	{
+		"name": "DNA",
+		"link": "javascript:",
+		"target": "#dna"
+	},
+	{
+		"name": "Ecosystem Partnership",
+		"link": "javascript:",
+		"target": "#ecosystem"
+	},
+	{
+		"name": "Pendaftaran",
+		"link": "javascript:",
+		"target": "#registration"
+	},
+	{
+		"name": "Hubungi Kami",
+		"link": "javascript:",
+		"target": "#contact-us"
+	}
+]
