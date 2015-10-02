@@ -4,14 +4,14 @@
 		"link": "#/"
 	},
 	{
-		"name": "Tujuan",
-		"link": "javascript:",
-		"target": "#purpose"
-	},
-	{
 		"name": "DNA",
 		"link": "javascript:",
 		"target": "#dna"
+	},
+	{
+		"name": "DNA Program",
+		"link": "javascript:",
+		"target": "#dna-program"
 	},
 	{
 		"name": "Ecosystem Partnership",
